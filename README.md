@@ -1,4 +1,2 @@
-Creative-Server
-===============
-
-atomfitz's creative server bug reporting and suggestions
+Click 'issues' to create a new bug report or suggest a future idea/improvement
+please make sure to be specific about when the bug happens, including any specific messages that occour. Must be reproduceable.
